@@ -208,7 +208,7 @@ a{
     color: aliceblue;
 }
 .form{
-    background-image: url("../images/pizza.jpg");
+    background-image: url("../pizza.jpg");
     background-repeat: no-repeat; 
 
     background-size: cover;
